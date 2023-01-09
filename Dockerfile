@@ -1,4 +1,4 @@
-FROM ttbb/base:node
+FROM shoothzj/base:node
 
 WORKDIR /opt
 
